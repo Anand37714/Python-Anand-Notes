@@ -1,0 +1,4 @@
+ORD001,Laptop,8500,delivered
+ORD002,Mobile,25000,pending
+ORD003,Tablet,45000,delivered
+ORD004,Earbuds,5000,cancelled

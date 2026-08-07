@@ -1,0 +1,2 @@
+ORD001,Laptop,85000,delivered
+ORD002,Mobile,25000,pending

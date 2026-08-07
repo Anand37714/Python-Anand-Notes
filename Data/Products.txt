@@ -1,0 +1,3 @@
+Product=Earphones, Colour=White,Stock=7,Brand=Apple,Pixel,Noise
+Product=Mobile,Colour=Grey,Stock=77,Brand=Apple,Pixel,Samsung
+Product=Mouse,Colour=Blue,Stock=8,Brand=Logitech,Arctic Fox,Asusy
